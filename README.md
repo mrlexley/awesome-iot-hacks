@@ -54,7 +54,8 @@ the table of content before making pull requests.
 - [IoT Village<sup>TM</sup>](https://www.iotvillage.org/)
 - [BuildItSecure.ly](http://builditsecure.ly/)
 - [Secure Internet of Things Project (Stanford)](http://iot.stanford.edu/people.html)
-- [The Open Web Application Security Project (OWASP)](https://www.owasp.org/index.php/Main_Page)
+- [The OWASP - Internet_of_Things_Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project)
+
 
 ## IoT Hacks
 
